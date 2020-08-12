@@ -1,7 +1,7 @@
 # WoW Addon configuration
 This repo contains my UI Setup.
 
-![interface](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/interface.jpg) ![dungeon](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/dung.jpg) ![arena](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/arena.jpg)
+![interface](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/interface.jpg)
 
 Paste the `Fonts` folder into wow's `Interface` folder.
 Download [Clean Icons Thin](https://www.wowinterface.com/downloads/info19844-CleanIcons-Thin.html) and paste it on the same `Interface` folder.
@@ -61,3 +61,6 @@ WeakAuras:
 * LocationPlus for ElvUI
 * AddOnSkins
 * ElvUI Microbar Enhancement
+
+### More Screenshots
+![dungeon](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/dung.jpg) ![arena](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/arena.jpg)
