@@ -3,8 +3,9 @@ This repo contains my UI Setup.
 
 ![interface](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/interface.jpg)
 
-Paste the `Fonts` folder into wow's `Interface` folder.
-Download [Clean Icons Thin](https://www.wowinterface.com/downloads/info19844-CleanIcons-Thin.html) and paste it on the same `Interface` folder.
+Paste `Fonts` folder into wow's `_retail_` folder.
+
+Download [Clean Icons Thin](https://www.wowinterface.com/downloads/info19844-CleanIcons-Thin.html) and paste it on `Interface` folder.
 
 ### Configurations
 
