@@ -63,4 +63,4 @@ WeakAuras:
 * ElvUI Microbar Enhancement
 
 ### More Screenshots
-![dungeon](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/dung.jpg) ![arena](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/arena.jpg)
+![dungeon](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/dung.jpg) ![arena](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/arena.jpg) ![totems](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/totems.jpg)
