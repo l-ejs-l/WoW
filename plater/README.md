@@ -4,6 +4,8 @@
 
 ![alt](./assets/markers.png)![alt](./assets/indicators.png)
 
+> Wotlk plater's not tested so it might not be working.
+
 ## Instalation
 Copy [plater.conf](plater.conf) content in to plater as a profile import.
 

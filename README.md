@@ -1,6 +1,8 @@
 # WoW Addon configuration
 This repo contains my UI Setup.
 
+> ElvUI interface not being maintained anymore.
+
 ![interface](https://raw.githubusercontent.com/EmilioJeldes/WoW/master/assets/interface.jpg)
 
 Paste `Fonts` folder into wow's `_retail_` folder.
